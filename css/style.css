@@ -88,7 +88,6 @@ Header .navbar-brand {
     background: #313131;
     transform: skew(-16deg);
     padding: 15px 30px;
-    position: absolute;
 }
 
 Header .navbar-brand img {
